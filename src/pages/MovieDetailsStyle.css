@@ -1,0 +1,14 @@
+.MovieDetails {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px black;
+    color: white;
+    transition-duration: 0.3;
+    justify-content: space-between;
+}

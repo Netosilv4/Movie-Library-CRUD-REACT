@@ -1,0 +1,13 @@
+.Loading {
+    margin: 0 auto;
+    width: 20%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Loading img {
+    width: 100%;
+    padding: 20px;
+}
